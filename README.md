@@ -8,7 +8,6 @@ Welcome to the Guessing Game! This is a simple game built with JavaScript where 
 - [How to Play](#how-to-play)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
